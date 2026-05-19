@@ -1,0 +1,152 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "9001d967-6fe5-486a-a84c-d2d9e7920770")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 30.48 88.9)
+		(size 58.42 43.18)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "2979648f-6660-4400-b63f-45e9844052f5")
+		(property "Sheetname" "test_ckt"
+			(at 30.48 88.1884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "test.kicad_sch"
+			(at 30.48 132.6646 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Type C breakout board"
+				(path "/9001d967-6fe5-486a-a84c-d2d9e7920770"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 98.425 34.925)
+		(size 57.785 41.275)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "722a26bf-4625-4697-ae17-b368424a7057")
+		(property "Sheetname" "CYPDD3177"
+			(at 98.425 34.2134 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "CYP3177.kicad_sch"
+			(at 98.425 76.7846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Type C breakout board"
+				(path "/9001d967-6fe5-486a-a84c-d2d9e7920770"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 29.845 35.56)
+		(size 59.055 41.275)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "97bd3f2f-9669-493b-9159-e60d400dadd3")
+		(property "Sheetname" "Receptacle"
+			(at 29.845 34.8484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "receptacle.kicad_sch"
+			(at 29.845 77.4196 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Type C breakout board"
+				(path "/9001d967-6fe5-486a-a84c-d2d9e7920770"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

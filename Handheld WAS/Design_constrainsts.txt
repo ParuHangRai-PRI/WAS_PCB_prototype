@@ -1,0 +1,11 @@
+Battery
+Battery length ~ 54mm
+Battery width ~ 34 mm
+Battery thickness ~ 6mm
+
+Cuvette
+
+Form LED emitter: 4.3mm
+From Photodiode surface: 10.7 mm
+cuvette: 12.5 mm 
+cuvette thickness: 1.25 mm	
