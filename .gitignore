@@ -1,0 +1,22 @@
+# Ignore Local Environment / System
+**.hsitory/
+
+# Ignore footprint info cache and intermediate netlists
+*fp-info-cache
+*.xml
+
+# Ignore production files
+**/JLCPCB/
+*.zip
+**/Gerbers/
+
+# Ignore local workspace prefrences
+*.kicad_prl
+
+# Ignore automatically generated schematic and PCB backups
+**/*-backups/
+*.kicad_pcb-bak
+*.kicad_sch-bak
+
+# Ignore any pdfs
+*.pdf
