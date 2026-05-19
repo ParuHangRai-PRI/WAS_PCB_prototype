@@ -1,5 +1,5 @@
 # Ignore Local Environment / System
-**.hsitory/
+**.history/
 
 # Ignore footprint info cache and intermediate netlists
 *fp-info-cache
